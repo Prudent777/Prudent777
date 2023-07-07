@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Prudent, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Prudent, a Part-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Cloud Application Security,Artificial intelligence and machine learning,Security of connected objects (IoT) and Blockchain Security 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Blockchain Security stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
