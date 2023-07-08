@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
   
 
-- 🌱 I’m currently learning Cloud Application Security,Artificial intelligence and machine learning,Security of connected objects (IoT) and Blockchain Security 
+- 🌱 I’m currently learning Cloud Application Security,Artificial intelligence and machine learning,Security of connected objects (IoT) and Blockchain Security. 
   
 
-- ❓ Ask me about anything related to Blockchain Security stack and related technologies  
+- ❓ Ask me about anything related to Blockchain Security stack and related technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.  
   
 
 <br/>  
