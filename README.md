@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img src="https://github.com/Prudent777/prudent777/edit/main/README.md" align="center" style="width: 100%" />
+<img src="https://rb.gy/zu8ef" align="center" style="width: 100%" />
 </div>  
   
 
