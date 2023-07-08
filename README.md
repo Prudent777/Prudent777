@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://rb.gy/zu8ef" align="center" style="width: 50%" />
 </div>  
   
-<div align="center">I'm Prudent, a Part-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+<div align="center">✨ _special_ ✨ I'm Work at Part-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
