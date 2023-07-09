@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## My Skill Set  
+## My Skills Set  
 <table><tr><td valign="top" width="33%">
 
 
