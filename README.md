@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://rb.gy/zu8ef" align="center" style="width: 50%" />
 </div>  
   
-<div align="center">I'm Working at Part-time Cyber Security Consultant and Trainer full-stack ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+<div align="center">I'm Working at Part-time on Cyber Security Consultant and Trainer full-stack ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
