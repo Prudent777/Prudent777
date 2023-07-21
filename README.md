@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Application Security,Artificial intelligence and machine learning,Security of connected objects (IoT) and Blockchain Security; 
   
 
-- ❓ Ask me about anything related to Blockchain Security stack and related technologies;
+- ❓Ask me questions about everything related to web development, mobile, web cyber security and related technologies.;
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
