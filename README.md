@@ -3,7 +3,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prudent777&show_icons=true&locale=en&layout=compact" alt="Prudent777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudent777&show_icons=true&locale=en" alt="Prudent777" /></p>
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777&theme=gruvbox-duo&hide_border=true&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Prudent777&theme=gruvbox-duo&hide_border=true&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 <!--
 **Prudent777/Prudent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
