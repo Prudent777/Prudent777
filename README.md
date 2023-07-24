@@ -14,7 +14,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-### Technologies
+### ✨Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -27,7 +27,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
+### ✨Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://singular-rabanadas-36b851.netlify.app)
 [![](https://img.shields.io/badge/-🦠%20BookStack‑19%20Contribution-000)](https://github.com/Prudent777/BookStack212)
@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/-🔊%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
 [![](https://img.shields.io/badge/-🗺%20Firstgame-000)](https://github.com/Prudent777/Karting-4X)
 
-### Cybersecurity Projects
+### ✨Cybersecurity Projects
 
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
 
