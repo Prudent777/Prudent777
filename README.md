@@ -40,7 +40,7 @@
 [![](https://img.shields.io/badge/-🦠%20BookStack‑19%20Contribution-000)](https://github.com/Prudent777/BookStack212)
 [![](https://img.shields.io/badge/-📝%20Hackathon-000)](https://github.com/Prudent777/all-quality-image-converter)
 [![](https://img.shields.io/badge/-🔬%20LablabAI-000)](https://github.com/Prudent777/Cyberfirend)
-[![](https://img.shields.io/badge/-🛰%20Solidityproject-000)](https://github.com/Prudent777/Bitadcoin)
+[![](https://img.shields.io/badge/-🛰%20AR-VR-Africa-Metathon-2022-000)](https://github.com/Prudent777/AR-VR-Africa-Metathon-2022)
 [![](https://img.shields.io/badge/-🔊%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
 [![](https://img.shields.io/badge/-🗺%20Firstgame-000)](https://github.com/Prudent777/Karting-4X)
 
