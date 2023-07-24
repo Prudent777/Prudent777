@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Prudent NGAIPERA DONG
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark" alt="Prudent777" /></a> </p>
 <p><img align="left" src="" /></p>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -10,7 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Swift](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### Technologies
 
