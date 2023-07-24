@@ -3,7 +3,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prudent777&show_icons=true&locale=en&layout=compact" alt="Prudent777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudent777&show_icons=true&locale=en" alt="Prudent777" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=Prudent777&theme=gruvbox-duo&hide_border=true&border_radius=5.2&date_format=M%20j%5B%2C%20Y%5D" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Prudent777&theme=gruvbox-duo&hide_border=true&border_radius=6.2&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 <!--
 **Prudent777/Prudent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777&border_radius=5.2)](https://git.io/streak-stats)
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
