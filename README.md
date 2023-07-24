@@ -3,7 +3,7 @@
 <p><img align="left" src="" /></p>
 
 
-###✨Languages
+### ✨Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
