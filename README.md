@@ -44,7 +44,7 @@
 [![](https://img.shields.io/badge/-🔊%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
 [![](https://img.shields.io/badge/-🗺%20Firstgame-000)](https://github.com/Prudent777/Karting-4X)
 
-### ✨Cybersecurity Projects
+### ✨Cybersecurity and AI Projects
 
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
 [![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
