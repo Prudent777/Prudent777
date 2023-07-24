@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Prudent NGAIPERA DONG
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark" alt="Prudent777" /></a> </p>
 <p><img align="left" src="" /></p>
-[![](https://raw.githubusercontent.com/Prudent777/Prudent777/master/profile.gif)](https://www.Prudent777.com/)<!-- If you want the template for my gif, email me! -->
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -48,7 +46,7 @@
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudent777&theme=tokyonight&show_icons=true" alt="Prudent777" /></p>
+<p>&nbsp;<img align="center" src="" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com?user=Prudent777&theme=gruvbox-duo&hide_border=true&border_radius=6.2&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 <!--
