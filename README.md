@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+##[![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777&theme=dark)](https://git.io/streak-stats)
 
 ### Frontend  
 <div align="center">  
