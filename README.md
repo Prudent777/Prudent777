@@ -49,9 +49,6 @@
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
 
 
-<p>&nbsp;<img align="center" src="" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=Prudent777&theme=gruvbox-duo&hide_border=true&border_radius=6.2&date_format=M%20j%5B%2C%20Y%5D" /></p>
-
 <!--
 **Prudent777/Prudent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
