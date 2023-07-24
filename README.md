@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-##[![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777&theme=dark)](https://git.io/streak-stats)
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
