@@ -40,11 +40,11 @@
 [![](https://img.shields.io/badge/-🦠%20BookStack‑19%20Contribution-000)](https://github.com/Prudent777/BookStack212)
 [![](https://img.shields.io/badge/-📝%20Hackathon-000)](https://github.com/Prudent777/all-quality-image-converter)
 [![](https://img.shields.io/badge/-🛰%20AR-VR-Africa-Metathon-2022-000)](https://github.com/Prudent777/AR-VR-Africa-Metathon-2022)
-
+[[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
 
 ### ✨Cybersecurity and AI Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
+[[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
 [![](https://img.shields.io/badge/-🗺%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
 [![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
 <!--
