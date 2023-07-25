@@ -86,19 +86,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
-
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
-  
-
-- 🌱 I’m currently learning Cloud Application Security,Artificial intelligence and machine learning,Security of connected objects (IoT) and Blockchain Security; 
-  
-
-- ❓Ask me questions about everything related to web development, mobile, web cyber security and related technologies.;
-  
-
-- ⚡ Fun fact: I use tabs over spaces.  
-  
+<p align="center">
+<a href="https://linkedin.com/in/AVS1508"><img src="https://www.linkedin.com/in/prudent-ngaipera-dong-990421226/"/></a>
+</p>
 
 
 ## My Skill Set  
