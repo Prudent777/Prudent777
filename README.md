@@ -69,7 +69,15 @@ Here are some ideas to get you started:
 </div>  
   
 <div align="center">I'm a Cyber Security ,web developer teacher and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
+
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/vivek9patel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
   
