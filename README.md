@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   
 <div align="center">I'm a Cyber Security ,web developer teacher and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
 
-  ### ⚙️ &nbsp;GitHub Analytics
+  ### ⚙️ &nbsp:GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/vivek9patel">
