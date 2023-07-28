@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <img src="https://rb.gy/zu8ef" align="center" style="width: 50%" />
 </div>  
   
-<div align="center">I'm a Cyber Security ,web developer teacher and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+<div align="center">I'm a Cyber Security ,web developer teacher - hhhh and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
 
 
 ### ⚙️ &nbsp;GitHub Analytics
