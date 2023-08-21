@@ -75,4 +75,5 @@
 </a>
 </p>
 
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
