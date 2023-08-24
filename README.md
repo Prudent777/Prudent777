@@ -122,7 +122,7 @@ Follow instructions from their [documentation](https://developers.google.com/map
   </tr>
   <tr>
     <td nowrap="nowrap"><h4><code>plugin_stargazers</code></h4></td>
-    <td rowspan="2"><p>Enable stargazers plugin</p>
+    <td rowspan="2"><p>Enable plugin</p>
 <img width="900" height="1" alt=""></td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ Follow instructions from their [documentation](https://developers.google.com/map
 <b>default:</b> no<br></td>
   </tr>
   <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers_days</code></h4></td>
+    <td nowrap="nowrap"><h4><code>plugin_star_days</code></h4></td>
     <td rowspan="2"><p>Time range</p>
 <p>If set to <code>0</code> the account registration date will be used.</p>
 <img width="900" height="1" alt=""></td>
@@ -145,9 +145,9 @@ Follow instructions from their [documentation](https://developers.google.com/map
 <b>default:</b> 14<br></td>
   </tr>
   <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers_charts</code></h4></td>
+    <td nowrap="nowrap"><h4><code>plugin_star charts</code></h4></td>
     <td rowspan="2"><p>Charts</p>
-<p>It includes total number of stargazers evolution, along with the number of new stars per day over the last two weeks.</p>
+<p>It includes total number of evolution, along with the number of new stars per day over the last two weeks.</p>
 <img width="900" height="1" alt=""></td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ Follow instructions from their [documentation](https://developers.google.com/map
 <b>default:</b> yes<br></td>
   </tr>
   <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers_charts_type</code></h4></td>
+    <td nowrap="nowrap"><h4><code>plugin_star_charts_type</code></h4></td>
     <td rowspan="2"><p>Charts display type</p>
 <ul>
 <li><code>classic</code>: <code>&lt;div&gt;</code> based charts, simple and lightweight</li>
@@ -178,8 +178,8 @@ Follow instructions from their [documentation](https://developers.google.com/map
 <b>allowed values:</b><ul><li>classic</li><li>graph</li><li>chartist</li></ul></td>
   </tr>
   <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers_worldmap</code></h4></td>
-    <td rowspan="2"><p>Stargazers worldmap</p>
+    <td nowrap="nowrap"><h4><code>plugin_star_worldmap</code></h4></td>
+    <td rowspan="2"><p>Star worldmap</p>
 <img width="900" height="1" alt=""></td>
   </tr>
   <tr>
@@ -193,8 +193,8 @@ Follow instructions from their [documentation](https://developers.google.com/map
 <b>default:</b> no<br></td>
   </tr>
   <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers_worldmap_token</code></h4></td>
-    <td rowspan="2"><p>Stargazers worldmap token</p>
+    <td nowrap="nowrap"><h4><code>plugin_star worldmap_token</code></h4></td>
+    <td rowspan="2"><p>Star worldmap token</p>
 <img width="900" height="1" alt=""></td>
   </tr>
   <tr>
@@ -203,9 +203,9 @@ Follow instructions from their [documentation](https://developers.google.com/map
 <br></td>
   </tr>
   <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers_worldmap_sample</code></h4></td>
-    <td rowspan="2"><p>Stargazers worldmap sample</p>
-<p>Use this setting to randomly sample and limit your stargazers.
+    <td nowrap="nowrap"><h4><code>plugin_star_worldmap_sample</code></h4></td>
+    <td rowspan="2"><p>Star worldmap sample</p>
+<p>Use this setting to randomly sample and limit your star.
 Helps to avoid consuming too much Google Geocoding API requests while still being representative.</p>
 <img width="900" height="1" alt=""></td>
   </tr>
