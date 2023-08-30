@@ -3,7 +3,7 @@
 <p align="left"> <a ihref="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark" alt="Prudent777" /></a> </p>
 
 
-### ✨Languages 
+### ✨Languages ji
 
 ![HTML5](https://img.shields.io/badge/html995-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
