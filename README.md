@@ -101,123 +101,7 @@ All product and company names are trademarks™ or registered® trademarks of th
 </table>
 <!--/header-->
 
-## 🗝️ Obtaining a Google Maps API token
 
-Some features like `plugin_stagazers_worldmap` require a Google Geocoding API token.
-Follow instructions from their [documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key) for more informations.
-
-> 💳 A billing account is required to get a token. However a recurring [monthly credit](https://developers.google.com/maps/billing-credits#monthly) is offered which means you should not be charged if you don't exceed the free quota.
->
-> It is advised to set the quota limit at 1200 requests per day
->
-> Use at your own risk, *metrics* and its authors cannot be held responsible for anything charged.
-
-## ➡️ Available options
-
-<!--options-->
-<table>
-  <tr>
-    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_stargazers</code></h4></td>
-    <td rowspan="2"><p>Enable plugin</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
-<br>
-<b>default:</b> no<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_star_days</code></h4></td>
-    <td rowspan="2"><p>Time range</p>
-<p>If set to <code>0</code> the account registration date will be used.</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>number</code>
-<i>(0 ≤
-𝑥)</i>
-<br>
-<b>zero behaviour:</b> see description</br>
-<b>default:</b> 14<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_star charts</code></h4></td>
-    <td rowspan="2"><p>Charts</p>
-<p>It includes total number of evolution, along with the number of new stars per day over the last two weeks.</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
-<br>
-<b>default:</b> yes<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_star_charts_type</code></h4></td>
-    <td rowspan="2"><p>Charts display type</p>
-<ul>
-<li><code>classic</code>: <code>&lt;div&gt;</code> based charts, simple and lightweight</li>
-<li><code>graph</code>: <code>&lt;svg&gt;</code> based charts, smooth</li>
-</ul>
-<blockquote>
-<p>⚠️ <code>chartist</code> option has been deprecated and is now equivalent to <code>graph</code></p>
-</blockquote>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap">🌐 Web instances must configure <code>settings.json</code>:
-<ul>
-<li><i>metrics.npm.optional.d3</i></li>
-</ul>
-<b>type:</b> <code>string</code>
-<br>
-<b>default:</b> classic<br>
-<b>allowed values:</b><ul><li>classic</li><li>graph</li><li>chartist</li></ul></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_star_worldmap</code></h4></td>
-    <td rowspan="2"><p>Star worldmap</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap">🌐 Web instances must configure <code>settings.json</code>:
-<ul>
-<li><i>metrics.api.google.maps</i></li>
-<li><i>metrics.npm.optional.d3</i></li>
-</ul>
-<b>type:</b> <code>boolean</code>
-<br>
-<b>default:</b> no<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_star worldmap_token</code></h4></td>
-    <td rowspan="2"><p>Star worldmap token</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap">🔐 Token<br>
-<b>type:</b> <code>token</code>
-<br></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><h4><code>plugin_star_worldmap_sample</code></h4></td>
-    <td rowspan="2"><p>Star worldmap sample</p>
-<p>Use this setting to randomly sample and limit your star.
-Helps to avoid consuming too much Google Geocoding API requests while still being representative.</p>
-<img width="900" height="1" alt=""></td>
-  </tr>
-  <tr>
-    <td nowrap="nowrap"><b>type:</b> <code>number</code>
-<i>(0 ≤
-𝑥)</i>
-<br>
-<b>zero behaviour:</b> disable</br>
-<b>default:</b> 0<br></td>
-  </tr>
-</table>
-<!--/options-->
 
 ## ℹ️ Examples workflows
 
@@ -259,3 +143,7 @@ with:
 ```
 <!--/examples-->
 
+
+## My Programming Stats
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=gamemann&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
+| ------------- | ------------- |
