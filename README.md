@@ -101,5 +101,5 @@ All product and company names are trademarks™ or registered® trademarks of th
 </table>
 <!--/header-->
 
-## My Programming Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+## My Programming Stats!
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
