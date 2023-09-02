@@ -55,46 +55,129 @@
   </tr>
 </table>
 <!--/header-->
+# My favorite tools and technologies ⚙️
 
-## My Programming Stats!
-🌞 Morning              626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+> Tools and technologies that I have worked with and am interested in
 
-🌆 Daytime              1897 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+                <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
-🌃 Evening              1592 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+## Github stats 📊
 
-🌙 Night                877 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
 
-Monday                   584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
 
-Tuesday                  613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Wednesday                855 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+</details>
 
-Thursday                 617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 
-Friday                   553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 
-Saturday                 698 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
 
-Sunday                   1072 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-🕑︎ Time Zone: Morocco/Casblanca
-
-## Programming Languages: 
-Python                   7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
-
-C#                       5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.88 %
-
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-
-Java                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-
-C                        39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-
-##  Editors: 
-PyCharm                  8 hrs 26 mins       █████████████░░░░░░░░░░░░   51.53 %
-
-WebStorm                 7 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.47 % 
-
-## 💻 Operating System: 
-Windows                  16 hrs 23 mins      █████████████████████████   100.00 % 
