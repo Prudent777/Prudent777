@@ -102,4 +102,7 @@ All product and company names are trademarks™ or registered® trademarks of th
 <!--/header-->
 
 ## My Programming Stats!
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+🌞 Morning                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+🌆 Daytime                1897 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌃 Evening                1592 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌙 Night                  877 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
