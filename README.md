@@ -39,24 +39,11 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
 
 
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
-  <tr><th colspan="2"><h3>✨ Stargazers</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>This plugin displays stargazers evolution across affiliated repositories.</p>
-</td></tr>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
-</td></tr>
+
   <tr>
     <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
     <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/repository/README.md"><code>📘 Repository template</code></a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code> <code>📓 Repositories</code></td>
-  </tr>
-  <tr>
-    <td><code>🔑 (scopeless)</code> <code>🗝️ plugin_stargazers_worldmap_token</code> <code>read:org (optional)</code> <code>read:user (optional)</code> <code>read:packages (optional)</code> <code>repo (optional)</code></td>
+
   </tr>
   <tr>
     <td colspan="2" align="center">
