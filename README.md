@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate frontend developer.
+### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate Full stack developer.
 <p align="left"> <a ihref="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark" alt="Prudent777" /></a> </p>
 
 
@@ -23,5 +23,5 @@
 [![](https://img.shields.io/badge/-🗺%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
 [![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
 
-![Prudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
+![Prudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prudent777&theme=tokyonight&show_icons=true)
 
