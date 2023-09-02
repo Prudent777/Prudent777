@@ -6,57 +6,6 @@
 ### ✨Languages  and ✨Technologies
 
 
-### ✨Full Stack Projects
-
-[![](https://img.shields.io/badge/-🧬%20My%20Portfolio-000)](https://singular-rabanadas-36b851.netlify.app)
-[![](https://img.shields.io/badge/-🦠%20BookStack‑19%20Contribution-000)](https://github.com/Prudent777/BookStack212)
-[![](https://img.shields.io/badge/-📝%20Hackathon-000)](https://github.com/Prudent777/all-quality-image-converter)
-[![](https://img.shields.io/badge/-🛰%20AR-VR-Africa-Metathon-2022-000)](https://github.com/Prudent777/AR-VR-Africa-Metathon-2022)
-[[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
-
-### ✨Cybersecurity and AI Projects 
-
-[[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
-[![](https://img.shields.io/badge/-🗺%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
-[![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
-<!--
-**Prudent777/Prudent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
-
-
-<div align="center">
-<img src="https://rb.gy/zu8ef" align="center" style="width: 50%" />
-</div>  
-  
-<div align="center">I'm a Cyber Security ,web developer teacher and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-
-    
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
-
-
-
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/repository/README.md"><code>📘 Repository template</code></a></td>
-
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
-      <details><summary>Graph charts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
-      <details open><summary>Worldmap</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
-# My favorite tools and technologies ⚙️
-
 > Tools and technologies that I have worked with and am interested in
 
 <table>
@@ -178,6 +127,40 @@
 
 </details>
 
+
+
+
+### ✨Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Portfolio-000)](https://singular-rabanadas-36b851.netlify.app)
+[![](https://img.shields.io/badge/-🦠%20BookStack‑19%20Contribution-000)](https://github.com/Prudent777/BookStack212)
+[![](https://img.shields.io/badge/-📝%20Hackathon-000)](https://github.com/Prudent777/all-quality-image-converter)
+[![](https://img.shields.io/badge/-🛰%20AR-VR-Africa-Metathon-2022-000)](https://github.com/Prudent777/AR-VR-Africa-Metathon-2022)
+[[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
+
+### ✨Cybersecurity and AI Projects 
+
+[[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
+[![](https://img.shields.io/badge/-🗺%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
+[![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
+<!--
+**Prudent777/Prudent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
+
+
+<div align="center">
+<img src="https://rb.gy/zu8ef" align="center" style="width: 50%" />
+</div>  
+  
+<div align="center">I'm a Cyber Security ,web developer teacher and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+
+    
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
 
 
 
