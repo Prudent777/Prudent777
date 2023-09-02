@@ -118,6 +118,8 @@
 [![](https://img.shields.io/badge/-🛰%20AR-VR-Africa-Metathon-2022-000)](https://github.com/Prudent777/AR-VR-Africa-Metathon-2022)
 [[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777)](https://git.io/streak-stats)
+
 ### ✨Cybersecurity and AI Projects 
 
 [[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
