@@ -101,49 +101,6 @@ All product and company names are trademarks™ or registered® trademarks of th
 </table>
 <!--/header-->
 
-
-
-## ℹ️ Examples workflows
-
-<!--examples-->
-```yaml
-name: Using classic charts
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_stargazers: yes
-
-```
-```yaml
-name: Using graph charts
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.graph.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_stargazers: yes
-  plugin_stargazers_charts_type: graph
-
-```
-```yaml
-name: With worldmap
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.worldmap.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_stargazers: yes
-  plugin_stargazers_charts: no
-  plugin_stargazers_worldmap: yes
-  plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-  plugin_stargazers_worldmap_sample: 200
-
-```
-<!--/examples-->
-
-
 ## My Programming Stats
 | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=gamemann&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 | ------------- | ------------- |
