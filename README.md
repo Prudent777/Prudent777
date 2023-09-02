@@ -119,7 +119,6 @@
 [[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777)](https://git.io/streak-stats)
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
 
 ### ✨Cybersecurity and AI Projects 
 
@@ -128,22 +127,6 @@
 [![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
 <!--
 **Prudent777/Prudent777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
-
-
-<div align="center">
-<img src="https://rb.gy/zu8ef" align="center" style="width: 50%" />
-</div>  
-  
-<div align="center">I'm a Cyber Security ,web developer teacher and Consultant full-stack web developper ✨ _special_ ✨ freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-
-    
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Prudent777/Cybersecurityportofolio/tree/main)  
-
 
 
