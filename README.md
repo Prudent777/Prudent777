@@ -119,6 +119,7 @@
 [[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prudent777)](https://git.io/streak-stats)
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
 
 ### ✨Cybersecurity and AI Projects 
 
