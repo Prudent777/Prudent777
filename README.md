@@ -14,8 +14,6 @@
 [![](https://img.shields.io/badge/-📝%20Hackathon-000)](https://github.com/Prudent777/all-quality-image-converter)
 [![](https://img.shields.io/badge/-🛰%20AR-VR-Africa-Metathon-2022-000)](https://github.com/Prudent777/AR-VR-Africa-Metathon-2022)
 [[![](https://img.shields.io/badge/-🩸%20DevClub-000)](https://devclub.fr/my-account)
-### ✨Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 ### ✨Cybersecurity and AI Projects 
 
