@@ -1,11 +1,9 @@
 
 ### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate Full Stack engineer Developer.
-1. 🔒 Closed issue [#3](https://github.com/rzashakeri/awesome-persian/issues/3) in [rzashakeri/awesome-persian](https://github.com/rzashakeri/awesome-persian)
-2. 🗣 Commented on [#3](https://github.com/rzashakeri/awesome-persian/issues/3#issuecomment-1700147738) in [rzashakeri/awesome-persian](https://github.com/rzashakeri/awesome-persian)
-3. 🎉 Merged PR [#220](https://github.com/file-validator/file-validator/pull/220) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-4. 💪 Opened PR [#220](https://github.com/file-validator/file-validator/pull/220) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 💪 Opened PR [#291](https://github.com/javascript-tutorial/fa.javascript.info/pull/291) in [javascript-tutorial/fa.javascript.info](https://github.com/javascript-tutorial/fa.javascript.info)
-<!--END_SECTION:activity-->
+
+   <a href="https://github.com/rzashakeri/telegram-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
+ </a>
 ## GitHub Profile Trophy 🏆
 <p align="left"> <a ihref="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark" alt="Prudent777" /></a> </p>
 
