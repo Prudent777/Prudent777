@@ -1,6 +1,10 @@
 
 ### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate Full Stack engineer Developer.
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prudent777&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
@@ -25,8 +29,4 @@
 [[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/Prudent777/HeartbleedProject)
 [![](https://img.shields.io/badge/-🗺%20Pentester-000)](https://github.com/Prudent777/Hacker-sa-premi-re-machine)
 [![](https://img.shields.io/badge/-🗺%20Contribution-Project--000)](https://github.com/Prudent777/Cyberfirend)
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
 
