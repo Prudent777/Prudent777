@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate  Full Stack engineer Developer.
+### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate  in software engineer .
 
 <details>
   <summary>Activity Graph 📈</summary>
