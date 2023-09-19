@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate  in software  engineering nekekekekeke.
+### Hi there 👋 I'm  Prudent NGAIPERA-DONG passionate  in software  engineering nekekekeke.
 
 <details>
   <summary>Activity Graph 📈</summary>
